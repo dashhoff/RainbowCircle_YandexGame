@@ -109,14 +109,14 @@ public class GameSettings : MonoBehaviour
         YandexGame.savesData.cameraShakeOn = true;
 
         YandexGame.savesData.ballLifeTime = 20;
-        YandexGame.savesData.ballMaxSpeed = 10;
+        YandexGame.savesData.ballMaxSpeed = 30;
 
         YandexGame.savesData.maxSpeedPrice = 5;
         YandexGame.savesData.lifeTimePrice = 5;
         YandexGame.savesData.spawnIntervalPrice = 5;
         YandexGame.savesData.colorIntervalPrice = 5;
 
-        YandexGame.savesData.rainbowCircleSpawnInterval = 0.3f;
+        YandexGame.savesData.rainbowCircleSpawnInterval = 0.05f;
         YandexGame.savesData.rainbowCircleColorChangeSpeed = 0.3f;
 
         YandexGame.SaveProgress();

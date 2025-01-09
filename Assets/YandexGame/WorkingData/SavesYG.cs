@@ -13,7 +13,7 @@ namespace YG
         public int money = 10;
 
         public float ballLifeTime = 20;
-        public float ballMaxSpeed = 10;
+        public float ballMaxSpeed = 30;
 
         public int maxSpeedPrice = 5;
         public int lifeTimePrice = 5;
@@ -24,7 +24,7 @@ namespace YG
         public bool fxOn = true;
         public bool cameraShakeOn = true;
 
-        public float rainbowCircleSpawnInterval = 0.3f;
+        public float rainbowCircleSpawnInterval = 0.05f;
         public float rainbowCircleColorChangeSpeed = 0.3f;
 
         public SavesYG()
