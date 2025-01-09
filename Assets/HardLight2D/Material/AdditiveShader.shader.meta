@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 1cfc8d27753f7a7488186e11c278dcd4
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 152208
+  packageName: Hard Light 2D
+  packageVersion: 2.1
+  assetPath: Assets/HardLight2D/Material/AdditiveShader.shader
+  uploadId: 404544

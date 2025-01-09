@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: dde1b3d129f825343b950c2f64340542
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 152208
+  packageName: Hard Light 2D
+  packageVersion: 2.1
+  assetPath: Assets/HardLight2D/Material/LightMaterial.mat
+  uploadId: 404544

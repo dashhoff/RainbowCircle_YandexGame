@@ -1,0 +1,18 @@
+{
+    "idSave": 700,
+    "isFirstSession": false,
+    "language": "ru",
+    "promptDone": false,
+    "money": 10,
+    "ballLifeTime": 20.0,
+    "ballMaxSpeed": 10.0,
+    "maxSpeedPrice": 5,
+    "lifeTimePrice": 5,
+    "spawnIntervalPrice": 5,
+    "colorIntervalPrice": 5,
+    "gameMoted": false,
+    "fxOn": true,
+    "cameraShakeOn": true,
+    "rainbowCircleSpawnInterval": 0.30000001192092898,
+    "rainbowCircleColorChangeSpeed": 0.30000001192092898
+}
